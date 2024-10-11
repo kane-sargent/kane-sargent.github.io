@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kane-sargent', // Usually your GitHub org/user name.
-  projectName: '/Hive-Knowledge-Base', // Usually your repo name.
+  projectName: 'Hive-Knowledge-Base', // Usually your repo name.
   deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

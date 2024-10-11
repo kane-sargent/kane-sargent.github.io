@@ -31,4 +31,4 @@ We recommend using **H.265** for optimal performance and quality.
 
 ---
 
-For further details on encoding, check the [Uploading Media and Templates](uploading-media-templates.md) section.
+
