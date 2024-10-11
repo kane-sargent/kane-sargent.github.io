@@ -1,0 +1,100 @@
+/**
+ * Existing global styles
+ */
+
+/* Your current color theme settings */
+:root {
+  --ifm-color-primary: #ffb600;
+  --ifm-color-primary-dark: #ffb600;
+  --ifm-color-primary-darker: #ffb600;
+  --ifm-color-primary-darkest: #ffb600;
+  --ifm-color-primary-light: #ffb600;
+  --ifm-color-primary-lighter: #ffb600;
+  --ifm-color-primary-lightest: #ffb600;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode settings */
+[data-theme='dark'] {
+  --ifm-color-primary: #ffb600;
+  --ifm-color-primary-dark: #ffb600;
+  --ifm-color-primary-darker: #ffb600;
+  --ifm-color-primary-darkest: #ffb600;
+  --ifm-color-primary-light: #ffb600;
+  --ifm-color-primary-lighter: #ffb600;
+  --ifm-color-primary-lightest: #ffb600;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+/* Navigation Bar */
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a; /* Navigation background */
+  padding: 10px 0;
+  margin: 0 auto;
+  width: 100%;
+  border-bottom: 3px solid #ffb600; /* One long yellow line under the navbar */
+}
+
+/* Navigation Buttons */
+.nav-bar button {
+  background-color: transparent; /* Transparent background */
+  color: #fff; /* White text */
+  border: none; /* No border */
+  padding: 15px 30px; /* Padding for button size */
+  margin: 0 10px; /* Spacing between buttons */
+  font-size: 1.1em; /* Adjust font size */
+  font-weight: bold; /* Bold text */
+  cursor: pointer;
+  transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+/* Highlight when the button is selected */
+.nav-bar button.selected {
+  background-color: #4a4a4a; /* Darker background color to highlight selected button */
+  color: #fff; /* White text on selected button */
+}
+
+/* Hover effect */
+.nav-bar button:hover {
+  background-color: transparent; /* Keep the background transparent on hover */
+  color: #ffb600;
+  ;  /* Change bottom border color on hover */
+}
+
+/* Section Content */
+.section-content {
+  margin-top: 20px;
+  text-align: center;
+  background-color:transparent ; /* Keep section background transparent */
+}
+
+/* Content Table */
+.content-table table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: transparent; /* Table background transparent */
+}
+
+.content-table th, .content-table td {
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Transparent borders with a slight white tint */
+  padding: 15px; /* Padding for better spacing */
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black background for cells */
+  color: rgb(212, 39, 39); /* Ensure text is white for readability */
+}
+
+.content-table th {
+  background-color: rgba(0, 0, 0, 0.5); /* Slightly darker semi-transparent background for headers */
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Light semi-transparent hover effect */
+  transition: background-color 0.3s ease;
+}
