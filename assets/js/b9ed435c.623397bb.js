@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhive_knowledge_base=self.webpackChunkhive_knowledge_base||[]).push([[1980],{5475:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/kane-sargent/kane-sargent.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
