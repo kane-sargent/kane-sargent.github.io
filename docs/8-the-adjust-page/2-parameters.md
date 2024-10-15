@@ -42,13 +42,13 @@ The Intensity slider adjusts the brightness of the selected layer. By default, i
 
 ---
 
-## In-Frame 
+## In-Frame
 
 The In-frame box determines the starting frame for the currently playing asset, providing precise control over where playback begins within the media.
 
 ---
 
-## Out-Frame 
+## Out-Frame
 
 The Out-frame box sets the end frame, specifying where the playing asset will stop.
 
@@ -129,7 +129,7 @@ The Aspect Ratio slider adjusts the width and height ratio of the selected layer
 
 ---
 
-## Position X 
+## Position X
 
 The Position X slider adjusts the horizontal placement of the selected layer. Manual adjustments can be made by selecting the value and entering a specific number.
 

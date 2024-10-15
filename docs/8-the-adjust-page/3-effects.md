@@ -78,13 +78,10 @@ To reset a single parameter in the Effects Tab, double-click anywhere on the sli
 
 ---
 
-### Quick Example:
+### Quick Example
 
 1. Enable **Live Control**.
 2. Select **Layer 1**.
 3. Apply the **Old TV** effect in **FX1**.
 4. Increase **FX1 Opacity** to 80%.
 5. Adjust parameters like **Frequency** to fine-tune the effect.
-
-
----

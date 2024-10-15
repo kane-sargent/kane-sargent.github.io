@@ -97,19 +97,19 @@ The **Bee-Sync Settings** button allows configuration of synchronisation setting
 The **Video Output Settings** button provides access to all the device's output configurations. Clicking the button opens a window displaying a list of adjustable settings, along with a preview box that shows all available resolutions supported by the currently connected display.
 
 - **Output Mode**: The output mode dropdown shows a list of available modes to choose from.
-    - **Auto**: Uses the display manufacturer's preferred display settings for the output device.
-    - **Manual**: Allows manual selection of the desired display settings.
+- **Auto**: Uses the display manufacturer's preferred display settings for the output device.
+- **Manual**: Allows manual selection of the desired display settings.
 
 - **Display Mode**: When in Manual mode, a dropdown list of all supported display modes for the output device is available. A display mode can be selected, and the device will use that mode unless it is unavailable.
 
 - **HDMI Range**: Determines the colour range sent from the Hive player to the output display.
-    - **Auto**: Uses the display's preferred colour range.
-    - **Limited**: Sends a limited colour range.
-    - **Full**: Sends the full colour range.
+  - **Auto**: Uses the display's preferred colour range.
+  - **Limited**: Sends a limited colour range.
+  - **Full**: Sends the full colour range.
 
 - **Bit Depth**: The bit depth dropdown allows selection of the colour bit depth to send to the output display.
-    - **8bit**: The default setting, sending 8-bit colour information to the output display.
-    - **10bit**: If supported by the display, 10-bit mode provides a more detailed colour system to match higher-quality content.
+- **8bit**: The default setting, sending 8-bit colour information to the output display.
+- **10bit**: If supported by the display, 10-bit mode provides a more detailed colour system to match higher-quality content.
 
 ![Settings Image 3](\img\user-manual\adjust\adjust-settings-media\image3.png)
 

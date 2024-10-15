@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon-32x32.png',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://kane-sargent.github.io' ,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/kane-sargent/Hive-Knowledge-Base/',
+  baseUrl: '/kane-sargent/kane-sargent.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kane-sargent', // Usually your GitHub org/user name.
-  projectName: 'Hive-Knowledge-Base', // Usually your repo name.
+  projectName: 'kane-sargent.github.io', // Usually your repo name.
   deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -54,8 +54,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl:
+            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -72,12 +72,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: '/img/HIVE_Logo.png',
       navbar: {
         title: 'Hive Knowledge base',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: '/img/HIVE_Logo.png',
         },
         items: [
           {

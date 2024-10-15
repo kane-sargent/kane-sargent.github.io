@@ -27,8 +27,6 @@ The **Settings** tab is where you manage your Hive player's primary features. He
 - **Model Selection**: Select the correct Hive model for your setup.
 - **Synchronisation Settings**: Control how your player syncs with others on the network.
 
-[Learn more about the **Settings tab**](#).
-
 ---
 
 ## Parameters
@@ -40,8 +38,6 @@ The **Parameters** tab allows you to fine-tune your media playback. You can cont
 - **Intensity**: Set how bright your layer should be.
 - **Play Speed**: Adjust how fast your content plays.
 - **Framing**: Choose how the content fits the screen (e.g., letterbox, crop, stretch).
-
-[Learn more about the **Parameters tab**](#).
 
 ---
 
@@ -55,8 +51,6 @@ In the **Effects** tab, you can apply and adjust visual effects to enhance your 
 - Customise the intensity and parameters of each effect.
 - Save and reset your effect configurations for future use.
 
-[Learn more about the **Effects tab**](#).
-
 ---
 
 ## Sensors
@@ -67,8 +61,6 @@ The **Sensors** tab lets you connect physical sensors to the Hive player, enabli
 
 - **Sensor Inputs**: Use sensors to trigger media playback.
 - **Triggers**: Automate actions like starting a video when someone enters a room.
-
-[Learn more about the **Sensors tab**](#).
 
 ---
 
@@ -81,5 +73,3 @@ The **Cloud** tab connects your Hive player to the Hive Cloud for remote managem
 - **Cloud Synchronisation**: Sync your player with Hive Cloud for remote control.
 - **Cloud Server**: Choose which server to use (default: hivecloud.run).
 - **Account Info**: Enter your Hive Cloud username and key for access.
-
-[Learn more about the **Cloud tab**](#).
