@@ -16,7 +16,7 @@ const config = {
   url: 'https://kane-sargent.github.io' ,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/kane-sargent/kane-sargent.github.io/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
