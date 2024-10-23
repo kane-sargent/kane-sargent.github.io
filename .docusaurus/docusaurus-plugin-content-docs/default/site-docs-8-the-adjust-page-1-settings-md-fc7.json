@@ -1,0 +1,26 @@
+{
+  "id": "the-adjust-page/settings",
+  "title": "Settings",
+  "description": "The Settings page allows you to configure various device options for your Hive player, such as networking, video, audio output, and more. Use this section to adjust your device’s behaviour, manage its connections, and set up synchronisation with other devices.",
+  "source": "@site/docs/8-the-adjust-page/1-settings.md",
+  "sourceDirName": "8-the-adjust-page",
+  "slug": "/the-adjust-page/settings",
+  "permalink": "/docs/the-adjust-page/settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adjust Page",
+    "permalink": "/docs/the-adjust-page/adjust-intro"
+  },
+  "next": {
+    "title": "Parameters",
+    "permalink": "/docs/the-adjust-page/parameters"
+  }
+}

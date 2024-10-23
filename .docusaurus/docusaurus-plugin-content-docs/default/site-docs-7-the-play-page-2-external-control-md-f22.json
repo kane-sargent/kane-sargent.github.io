@@ -1,0 +1,26 @@
+{
+  "id": "the-play-page/external-control",
+  "title": "Timecode",
+  "description": "Timecode List",
+  "source": "@site/docs/7-the-play-page/2-external-control.md",
+  "sourceDirName": "7-the-play-page",
+  "slug": "/the-play-page/external-control",
+  "permalink": "/docs/the-play-page/external-control",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Playlists",
+    "permalink": "/docs/the-play-page/Playlists"
+  },
+  "next": {
+    "title": "Live Control",
+    "permalink": "/docs/the-play-page/Live-Control"
+  }
+}

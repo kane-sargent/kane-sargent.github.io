@@ -1,0 +1,26 @@
+{
+  "id": "user-interface",
+  "title": "User Interface",
+  "description": "Upon access to your Hive media player, the Device page will be displayed. The Hive User Interface consists of five primary sections, which can be navigated via the task progress bar located at the bottom of each user interface page.",
+  "source": "@site/docs/3-user-interface.md",
+  "sourceDirName": ".",
+  "slug": "/user-interface",
+  "permalink": "/docs/user-interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up a Hive player with a static network connection",
+    "permalink": "/docs/connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection"
+  },
+  "next": {
+    "title": "The Device Page",
+    "permalink": "/docs/The-Device-Page"
+  }
+}

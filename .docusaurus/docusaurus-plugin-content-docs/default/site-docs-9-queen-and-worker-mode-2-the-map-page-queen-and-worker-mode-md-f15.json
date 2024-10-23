@@ -1,0 +1,17 @@
+{
+  "id": "queen-and-worker-mode/The-map-page-queen-and-worker-mode",
+  "title": "The Map Page: Queen and Worker Mode",
+  "description": "In Queen and Worker Mode, the Map Page remains independent on each device. While the Queen device maintains control over broader system operations, the map settings and output regions on Worker devices must be managed individually. Unlike other pages, changes made on the Queen's Map Page do not affect Worker devices. This ensures that each device's mapping can be tailored to its specific needs, allowing flexibility in multi-device setups.",
+  "source": "@site/docs/9-queen-and-worker-mode/2-The-map-page-queen-and-worker-mode.md",
+  "sourceDirName": "9-queen-and-worker-mode",
+  "slug": "/queen-and-worker-mode/The-map-page-queen-and-worker-mode",
+  "permalink": "/docs/queen-and-worker-mode/The-map-page-queen-and-worker-mode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

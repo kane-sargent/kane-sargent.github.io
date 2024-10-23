@@ -1,0 +1,429 @@
+{
+  "/__docusaurus/debug/-546": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/config/-8a8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/content/-2da": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    },
+    "__props": "__props---docusaurus-debug-content-197-dc7"
+  },
+  "/__docusaurus/debug/globalData/-178": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/metadata/-d6c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/registry/-6e3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/routes/-cab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/blog/-189": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      },
+      {
+        "content": "content---blog-f-4-f-f9a"
+      },
+      {
+        "content": "content---blog-871-0e4"
+      },
+      {
+        "content": "content---blog-925-075"
+      }
+    ],
+    "__props": "__props---blog-08-a-0b8"
+  },
+  "/blog/archive/-1d9": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "__props": "__props---blog-archive-dbf-bf3"
+  },
+  "/blog/authors/-347": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "__props": "__props---blog-authors-dd-0-1b8"
+  },
+  "/blog/authors/all-sebastien-lorber-articles/-a25": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      },
+      {
+        "content": "content---blog-f-4-f-f9a"
+      },
+      {
+        "content": "content---blog-925-075"
+      }
+    ],
+    "sidebar": "sidebar---blog-814-0c3",
+    "__props": "__props---blog-authors-all-sebastien-lorber-articles-797-223"
+  },
+  "/blog/authors/yangshun/-c91": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      },
+      {
+        "content": "content---blog-871-0e4"
+      },
+      {
+        "content": "content---blog-925-075"
+      }
+    ],
+    "sidebar": "sidebar---blog-814-0c3",
+    "__props": "__props---blog-authors-yangshun-a-63-83c"
+  },
+  "/blog/first-blog-post/-08c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-first-blog-post-e-27-d1d"
+  },
+  "/blog/long-blog-post/-447": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-long-blog-post-736-469"
+  },
+  "/blog/mdx-blog-post/-bcc": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-mdx-blog-post-593-4cb"
+  },
+  "/blog/tags/-e17": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "__props": "__props---blog-tags-206-de0"
+  },
+  "/blog/tags/docusaurus/-350": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      },
+      {
+        "content": "content---blog-f-4-f-f9a"
+      },
+      {
+        "content": "content---blog-871-0e4"
+      },
+      {
+        "content": "content---blog-925-075"
+      }
+    ],
+    "__props": "__props---blog-tags-docusaurus-31-d-085"
+  },
+  "/blog/tags/facebook/-187": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      }
+    ],
+    "__props": "__props---blog-tags-facebook-9-f-3-50a"
+  },
+  "/blog/tags/hello/-046": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-766-005"
+      },
+      {
+        "content": "content---blog-871-0e4"
+      }
+    ],
+    "__props": "__props---blog-tags-hello-33-a-c8e"
+  },
+  "/blog/tags/hola/-bf6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-925-075"
+      }
+    ],
+    "__props": "__props---blog-tags-hola-064-8f5"
+  },
+  "/blog/welcome/-a11": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authors-ace-808"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-welcome-d-9-f-d75"
+  },
+  "/Get_started/-64a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---get-started-a-74-5fe"
+    },
+    "content": "content---get-started-321-b71"
+  },
+  "/getstarted/intro/-afb": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---get-started-a-74-5fe"
+    },
+    "content": "content---getstarted-intro-7-f-7-842"
+  },
+  "/markdown-page/-54d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---get-started-a-74-5fe"
+    },
+    "content": "content---markdown-page-393-038"
+  },
+  "/placeholder/-dd5": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---get-started-a-74-5fe"
+    },
+    "content": "content---placeholder-639-2dd"
+  },
+  "/docs/-f37": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-aba-4f5"
+    }
+  },
+  "/docs/-bb6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-11-b-f70"
+  },
+  "/docs/-97a": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/connecting-to-device/Connecting-to-your-hive-player-via-Dhcp/-8e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-to-device-connecting-to-your-hive-player-via-dhcp-5-c-6-669"
+  },
+  "/docs/connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection/-e6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-to-device-setting-up-a-hive-player-with-a-static-network-connection-f-67-76c"
+  },
+  "/docs/intro/-d78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-d-7-1bf"
+  },
+  "/docs/queen-and-worker-mode/beesync/-43c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-beesync-273-69f"
+  },
+  "/docs/queen-and-worker-mode/find-devices-page/-3ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-find-devices-page-352-cfc"
+  },
+  "/docs/queen-and-worker-mode/Intro/-e85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-intro-5-d-9-d4e"
+  },
+  "/docs/queen-and-worker-mode/The-adjust-page-queen-and-worker-mode/-58a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-the-adjust-page-queen-and-worker-mode-303-3b6"
+  },
+  "/docs/queen-and-worker-mode/The-map-page-queen-and-worker-mode/-f2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-the-map-page-queen-and-worker-mode-f-15-902"
+  },
+  "/docs/queen-and-worker-mode/The-media-page-queen-and-worker-mode/-3cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-the-media-page-queen-and-worker-mode-345-5c9"
+  },
+  "/docs/queen-and-worker-mode/The-play-page-queen-and-worker_mode/-2b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-queen-and-worker-mode-the-play-page-queen-and-worker-mode-855-fdb"
+  },
+  "/docs/the-adjust-page/adjust-intro/-953": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-adjust-intro-01-c-a05"
+  },
+  "/docs/the-adjust-page/cloud/-4d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-cloud-fc-0-26a"
+  },
+  "/docs/the-adjust-page/effects/-c56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-effects-219-1ca"
+  },
+  "/docs/the-adjust-page/parameters/-9a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-parameters-d-0-d-551"
+  },
+  "/docs/the-adjust-page/sensors/-81a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-sensors-80-d-2cd"
+  },
+  "/docs/the-adjust-page/settings/-a6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-adjust-page-settings-fc-7-aa4"
+  },
+  "/docs/The-Device-Page/-336": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-device-page-b-16-9ab"
+  },
+  "/docs/the-map-page/Advanced-map/-885": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-map-page-advanced-map-482-6b4"
+  },
+  "/docs/the-map-page/Map-Page/-9d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-map-page-map-page-40-c-942"
+  },
+  "/docs/the-map-page/simple-mapping/-0a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-map-page-simple-mapping-c-60-33a"
+  },
+  "/docs/the-map-page/warp-and-blend/-9e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-map-page-warp-and-blend-adc-474"
+  },
+  "/docs/the-media-page/media 2/-920": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-2-580-925"
+  },
+  "/docs/the-media-page/media-3/-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-3-f-02-fca"
+  },
+  "/docs/the-media-page/media-4/-921": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-4-2-d-4-c5d"
+  },
+  "/docs/the-media-page/media-5/-bac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-5-07-d-efd"
+  },
+  "/docs/the-media-page/media-6/-a0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-6-6-ba-f44"
+  },
+  "/docs/the-media-page/media/-34b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-media-page-media-164-ded"
+  },
+  "/docs/the-play-page/external-control/-9ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-external-control-f-22-c78"
+  },
+  "/docs/the-play-page/Live-Control/-231": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-live-control-b-47-be1"
+  },
+  "/docs/the-play-page/play-intro/-fdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-play-intro-037-059"
+  },
+  "/docs/the-play-page/Playlists/-7a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-playlists-b-99-3c5"
+  },
+  "/docs/the-play-page/schedule/-86b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-schedule-6-f-0-c0a"
+  },
+  "/docs/the-play-page/Timeline/-f38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-the-play-page-timeline-486-b42"
+  },
+  "/docs/user-interface/-2b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-interface-b-20-caf"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---get-started-a-74-5fe"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

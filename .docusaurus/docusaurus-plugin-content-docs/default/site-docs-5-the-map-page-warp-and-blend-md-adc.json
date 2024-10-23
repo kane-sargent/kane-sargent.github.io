@@ -1,0 +1,26 @@
+{
+  "id": "the-map-page/warp-and-blend",
+  "title": "Warp and Blend",
+  "description": "The Warp and Blend Tab allows you to configure complex projection setups using third-party calibration systems such as Vioso and Screenberry. This tab provides advanced tools for mapping, blending, and warping media to create immersive projection environments. By leveraging these external systems, users can ensure precise calibration for multi-projector setups, seamless edge blending, and warping of projections to fit unique surfaces.",
+  "source": "@site/docs/5-the-map-page/warp-and-blend.md",
+  "sourceDirName": "5-the-map-page",
+  "slug": "/the-map-page/warp-and-blend",
+  "permalink": "/docs/the-map-page/warp-and-blend",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Mapping",
+    "permalink": "/docs/the-map-page/Advanced-map"
+  },
+  "next": {
+    "title": "Media Page Introduction",
+    "permalink": "/docs/the-media-page/media"
+  }
+}

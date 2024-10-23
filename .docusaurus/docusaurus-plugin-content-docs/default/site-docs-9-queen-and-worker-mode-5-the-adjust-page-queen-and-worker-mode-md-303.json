@@ -1,0 +1,17 @@
+{
+  "id": "queen-and-worker-mode/The-adjust-page-queen-and-worker-mode",
+  "title": "The Adjust Page: Queen and Worker Mode",
+  "description": "In Queen and Worker Mode, the Adjust Page operates differently from standard usage. The Queen has control over most of the configuration settings, while the Workers follow the Queen’s lead for adjustments. However, certain adjustments must still be made independently on each Worker device for precise control over their specific output.",
+  "source": "@site/docs/9-queen-and-worker-mode/5-The-adjust-page-queen-and-worker-mode.md",
+  "sourceDirName": "9-queen-and-worker-mode",
+  "slug": "/queen-and-worker-mode/The-adjust-page-queen-and-worker-mode",
+  "permalink": "/docs/queen-and-worker-mode/The-adjust-page-queen-and-worker-mode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  }
+}

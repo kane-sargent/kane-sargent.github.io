@@ -1,0 +1,26 @@
+{
+  "id": "the-map-page/Advanced-map",
+  "title": "Advanced Mapping",
+  "description": "The Advanced Mapping Tab provides a detailed configuration space for creating complex layouts and gaining precise control over the media mapping process. It is designed to address the needs of intricate display setups, making it ideal for advanced users.",
+  "source": "@site/docs/5-the-map-page/Advanced-map.md",
+  "sourceDirName": "5-the-map-page",
+  "slug": "/the-map-page/Advanced-map",
+  "permalink": "/docs/the-map-page/Advanced-map",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simple Mapping Tab",
+    "permalink": "/docs/the-map-page/simple-mapping"
+  },
+  "next": {
+    "title": "Warp and Blend",
+    "permalink": "/docs/the-map-page/warp-and-blend"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "the-play-page/Timeline",
+  "title": "Timeline",
+  "description": "Main Timeline UI",
+  "source": "@site/docs/7-the-play-page/4-Timeline.md",
+  "sourceDirName": "7-the-play-page",
+  "slug": "/the-play-page/Timeline",
+  "permalink": "/docs/the-play-page/Timeline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Control",
+    "permalink": "/docs/the-play-page/Live-Control"
+  },
+  "next": {
+    "title": "Schedule",
+    "permalink": "/docs/the-play-page/schedule"
+  }
+}

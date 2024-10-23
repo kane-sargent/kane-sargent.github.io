@@ -1,0 +1,26 @@
+{
+  "id": "the-adjust-page/parameters",
+  "title": "Parameters",
+  "description": "Parameters Image 1",
+  "source": "@site/docs/8-the-adjust-page/2-parameters.md",
+  "sourceDirName": "8-the-adjust-page",
+  "slug": "/the-adjust-page/parameters",
+  "permalink": "/docs/the-adjust-page/parameters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/the-adjust-page/settings"
+  },
+  "next": {
+    "title": "Effects",
+    "permalink": "/docs/the-adjust-page/effects"
+  }
+}

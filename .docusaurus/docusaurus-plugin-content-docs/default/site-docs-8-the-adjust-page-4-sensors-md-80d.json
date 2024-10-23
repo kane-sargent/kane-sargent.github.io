@@ -1,0 +1,26 @@
+{
+  "id": "the-adjust-page/sensors",
+  "title": "Sensors",
+  "description": "Sensors Image 1",
+  "source": "@site/docs/8-the-adjust-page/4-sensors.md",
+  "sourceDirName": "8-the-adjust-page",
+  "slug": "/the-adjust-page/sensors",
+  "permalink": "/docs/the-adjust-page/sensors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Effects",
+    "permalink": "/docs/the-adjust-page/effects"
+  },
+  "next": {
+    "title": "Cloud",
+    "permalink": "/docs/the-adjust-page/cloud"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/placeholder",
+  "source": "@site/src/pages/placeholder.md",
+  "title": "placeholder",
+  "description": "You don't need React to write simple standalone pages.",
+  "frontMatter": {
+    "title": "placeholder"
+  },
+  "unlisted": false
+}

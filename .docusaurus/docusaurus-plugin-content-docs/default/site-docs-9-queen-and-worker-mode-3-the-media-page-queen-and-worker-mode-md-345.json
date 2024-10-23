@@ -1,0 +1,17 @@
+{
+  "id": "queen-and-worker-mode/The-media-page-queen-and-worker-mode",
+  "title": "The media page queen and worker mode",
+  "description": "In Queen and Worker Mode, the Media Page functions slightly differently to maintain synchronized media playback across all devices. While the Queen device has full control over media management, Worker devices are set to follow the Queen's commands, ensuring seamless playback and media operations. The Queen is responsible for distributing and triggering media files, while the Workers mirror the Queen's actions.",
+  "source": "@site/docs/9-queen-and-worker-mode/3-The-media-page-queen-and-worker-mode.md",
+  "sourceDirName": "9-queen-and-worker-mode",
+  "slug": "/queen-and-worker-mode/The-media-page-queen-and-worker-mode",
+  "permalink": "/docs/queen-and-worker-mode/The-media-page-queen-and-worker-mode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

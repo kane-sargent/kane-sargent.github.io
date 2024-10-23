@@ -1,0 +1,17 @@
+{
+  "id": "queen-and-worker-mode/find-devices-page",
+  "title": "Find Devices page",
+  "description": "---",
+  "source": "@site/docs/9-queen-and-worker-mode/6-find-devices-page.md",
+  "sourceDirName": "9-queen-and-worker-mode",
+  "slug": "/queen-and-worker-mode/find-devices-page",
+  "permalink": "/docs/queen-and-worker-mode/find-devices-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  }
+}

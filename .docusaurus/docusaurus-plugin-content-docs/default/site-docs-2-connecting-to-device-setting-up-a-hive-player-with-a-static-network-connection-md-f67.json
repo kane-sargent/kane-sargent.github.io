@@ -1,0 +1,26 @@
+{
+  "id": "connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection",
+  "title": "Setting up a Hive player with a static network connection",
+  "description": "If you do not have an internet connection or prefer to use a static IP address, you can",
+  "source": "@site/docs/2-connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection.md",
+  "sourceDirName": "2-connecting-to-device",
+  "slug": "/connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection",
+  "permalink": "/docs/connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connecting to your hive-player via Dhcp",
+    "permalink": "/docs/connecting-to-device/Connecting-to-your-hive-player-via-Dhcp"
+  },
+  "next": {
+    "title": "User Interface",
+    "permalink": "/docs/user-interface"
+  }
+}

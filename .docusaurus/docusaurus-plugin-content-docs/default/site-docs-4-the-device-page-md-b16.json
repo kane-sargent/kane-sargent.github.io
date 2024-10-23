@@ -1,0 +1,26 @@
+{
+  "id": "The-Device-Page",
+  "title": "The Device page",
+  "description": "Device Main Page",
+  "source": "@site/docs/4-The-Device-Page.md",
+  "sourceDirName": ".",
+  "slug": "/The-Device-Page",
+  "permalink": "/docs/The-Device-Page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Interface",
+    "permalink": "/docs/user-interface"
+  },
+  "next": {
+    "title": "Map Page",
+    "permalink": "/docs/the-map-page/Map-Page"
+  }
+}

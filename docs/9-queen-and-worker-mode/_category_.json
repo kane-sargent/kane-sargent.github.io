@@ -1,0 +1,8 @@
+{
+  "label": "queen and worker mode",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "queen and worker operations"
+  }
+}

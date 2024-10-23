@@ -1,0 +1,191 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "connecting-to-device/Connecting-to-your-hive-player-via-Dhcp",
+              "path": "/docs/connecting-to-device/Connecting-to-your-hive-player-via-Dhcp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection",
+              "path": "/docs/connecting-to-device/Setting-up-a-Hive-player-with-a-static-network-connection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "queen-and-worker-mode/beesync",
+              "path": "/docs/queen-and-worker-mode/beesync"
+            },
+            {
+              "id": "queen-and-worker-mode/find-devices-page",
+              "path": "/docs/queen-and-worker-mode/find-devices-page"
+            },
+            {
+              "id": "queen-and-worker-mode/Intro",
+              "path": "/docs/queen-and-worker-mode/Intro"
+            },
+            {
+              "id": "queen-and-worker-mode/The-adjust-page-queen-and-worker-mode",
+              "path": "/docs/queen-and-worker-mode/The-adjust-page-queen-and-worker-mode"
+            },
+            {
+              "id": "queen-and-worker-mode/The-map-page-queen-and-worker-mode",
+              "path": "/docs/queen-and-worker-mode/The-map-page-queen-and-worker-mode"
+            },
+            {
+              "id": "queen-and-worker-mode/The-media-page-queen-and-worker-mode",
+              "path": "/docs/queen-and-worker-mode/The-media-page-queen-and-worker-mode"
+            },
+            {
+              "id": "queen-and-worker-mode/The-play-page-queen-and-worker_mode",
+              "path": "/docs/queen-and-worker-mode/The-play-page-queen-and-worker_mode"
+            },
+            {
+              "id": "the-adjust-page/adjust-intro",
+              "path": "/docs/the-adjust-page/adjust-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-adjust-page/cloud",
+              "path": "/docs/the-adjust-page/cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-adjust-page/effects",
+              "path": "/docs/the-adjust-page/effects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-adjust-page/parameters",
+              "path": "/docs/the-adjust-page/parameters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-adjust-page/sensors",
+              "path": "/docs/the-adjust-page/sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-adjust-page/settings",
+              "path": "/docs/the-adjust-page/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The-Device-Page",
+              "path": "/docs/The-Device-Page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-map-page/Advanced-map",
+              "path": "/docs/the-map-page/Advanced-map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-map-page/Map-Page",
+              "path": "/docs/the-map-page/Map-Page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-map-page/simple-mapping",
+              "path": "/docs/the-map-page/simple-mapping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-map-page/warp-and-blend",
+              "path": "/docs/the-map-page/warp-and-blend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media",
+              "path": "/docs/the-media-page/media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media 2",
+              "path": "/docs/the-media-page/media 2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media-3",
+              "path": "/docs/the-media-page/media-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media-4",
+              "path": "/docs/the-media-page/media-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media-5",
+              "path": "/docs/the-media-page/media-5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-media-page/media-6",
+              "path": "/docs/the-media-page/media-6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/external-control",
+              "path": "/docs/the-play-page/external-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/Live-Control",
+              "path": "/docs/the-play-page/Live-Control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/play-intro",
+              "path": "/docs/the-play-page/play-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/Playlists",
+              "path": "/docs/the-play-page/Playlists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/schedule",
+              "path": "/docs/the-play-page/schedule",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-play-page/Timeline",
+              "path": "/docs/the-play-page/Timeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-interface",
+              "path": "/docs/user-interface",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

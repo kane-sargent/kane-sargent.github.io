@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/Get_started",
+  "source": "@site/src/pages/Get_started.md",
+  "title": "Getting Started",
+  "description": "If you are trying to connect to your HIVE Player[s] on your network you can log in to the HIVE Player by entering the HIVE Players IP address into your browser’s address bar.  The devices IP address is shown on the HDMI output when the HIVE Player has booted and is about to begin playing videos.  It flashes up quite quickly by default, so you may need to use your phone to record the screen in order to read the IP address.  There is a video below which indicates where the IP address is displayed.",
+  "frontMatter": {
+    "title": "Getting Started"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "queen-and-worker-mode/Intro",
+  "title": "Queen and Worker Mode",
+  "description": "In the Hive system, Queen and Worker Mode establishes a hierarchical structure that simplifies control and synchronization across multiple devices. The Queen device operates as the central hub, managing key settings, playback commands, and content distribution. Worker devices, on the other hand, are dependent on the Queen, syncing to its commands and settings for seamless, frame-accurate playback and operations. This structure is particularly useful for large-scale or multi-device installations, where central control over numerous devices is essential to ensure consistency and precision. Understanding how Queen and Worker Mode operates is crucial for setting up and managing a synchronized, multi-device environment.",
+  "source": "@site/docs/9-queen-and-worker-mode/Intro.md",
+  "sourceDirName": "9-queen-and-worker-mode",
+  "slug": "/queen-and-worker-mode/Intro",
+  "permalink": "/docs/queen-and-worker-mode/Intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}
